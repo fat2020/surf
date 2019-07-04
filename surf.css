@@ -1,0 +1,24 @@
+    background-image: url("../Surf/shutterstock-631969562.png");
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: 100%;  
+    <div class="jumbotron jumbotron-fluid jumbotron-hero">
+    <div class="container text-center">
+      <h1 class="display-4 text-white">Partez a l'aventure</h1>
+      <p class="lead text-white">Decouvrez notre ecole de surf en peer-learning</p>
+      <a href="" class="btn btn-primary my-1">Je m'inscris a la prochaine session</a>
+      <a href="" class="btn btn-secondary my-1">Je découvre le programme</a>
+    </div>
+  </div>
+
+
+}
+
+.display-4{
+    color: #fff;
+    text-align: center;
+}
+.lead{
+    color: #fff;
+    text-align: center;
+} 
